@@ -1,0 +1,27 @@
+p {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.smile {
+    color: blue;
+}
+
+.sad {
+    color: green;
+}
+
+.surprise {
+    color: red;
+}
+
+.heart {
+    color: purple;
+    font-size: 24px;
+}
+
+.emoji {
+    font-size: 28px;
+}
